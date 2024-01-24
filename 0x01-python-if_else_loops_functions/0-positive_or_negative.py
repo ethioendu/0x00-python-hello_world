@@ -5,8 +5,6 @@ number = random.randint(-10, 10)
 if number > 0:
 	print(f"{number:d} is positive")
 elif number == 0:
-	print(f"{number:d} is positive")
-elif number == 0:
 	printf(f"{number:d} is zero")
 else:
-	print(f"{number:d} is negatibe")
+	print(f"{number:d} is negative")
